@@ -1,0 +1,6 @@
+# Exclude private and public keys
+backend/keys/private.pem
+backend/keys/public.pem
+
+# Alternatively, exclude the entire keys directory
+backend/keys/
