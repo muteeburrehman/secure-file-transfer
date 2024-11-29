@@ -1,4 +1,4 @@
-# secure-file-transfer
+# Secure File Transfer
 
 # RSA Key Generation
 
