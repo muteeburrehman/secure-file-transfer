@@ -21,7 +21,12 @@ This project requires RSA keys for encryption and decryption. Follow the steps b
 3. **Install Dependencies**
 
     This project requires the following Go dependencies:
-    ```bash
+    
     gorilla/mux: A router and dispatcher for HTTP requests.
     jwt-go: A Go library for creating and verifying JWT tokens for authentication.
+
+    ```bash 
+    go get -u github.com/gorilla/mux
+    go get -u github.com/golang-jwt/jwt/v4
+
  
